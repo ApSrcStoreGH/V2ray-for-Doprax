@@ -9,7 +9,7 @@ RUN apk update && apk add --no-cache supervisor wget unzip curl
 # ENV UUID de04add9-5c68-8bab-950c-08cd5320df18
 # ENV VMESS_WSPATH /vmess
 # ENV VLESS_WSPATH /vless
-ENV UUID ad806487-2d26-4636-98b6-ab85cc8521f7
+ENV UUID b4941fbd-9940-4d6d-9fd6-95a729031b75
 ENV VMESS_WSPATH /vmesswsp
 ENV VLESS_WSPATH /vlesswsp
 
